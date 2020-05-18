@@ -1,14 +1,12 @@
-﻿## 果派德州，客户端Unity3D源代码
+﻿## 德州，客户端Unity3D源代码
 [![licence badge]][licence]
 [![stars badge]][stars]
 [![forks badge]][forks]
 [![issues badge]][issues]
 
-### 果派德州介绍
-- 果派德州是一款专注海外发行的休闲德州扑克，包含常规桌，赛事场，百人桌，时时彩等玩法。
+### 德州介绍
+- 德州是一款专注海外发行的休闲德州扑克，包含常规桌，赛事场，百人桌，时时彩等玩法。
 - master分支的代码为ILRuntime重构的半成品，已转为商业闭源，不再更新Github仓库。1.1分支为xLua较完整的版本，可在u3d中运行，以及发布Android版本运行。
-
-We are recruitsing agents worldwide, please contact us at lion@cragon.cn
 
 ### GooglePlay下载链接
 - https://play.google.com/store/apps/details?id=com.Cragon.KingTexas
@@ -16,7 +14,7 @@ We are recruitsing agents worldwide, please contact us at lion@cragon.cn
 ### 打牌场视频
 - https://v.youku.com/v_show/id_XMzUzMTEzNjg2NA==.html?spm=a2h0k.11417342.soresults.dtitle
 
-### 果派德州依赖的第三方SDK
+### 依赖的第三方SDK
 - https://unity3d.com
 - https://beecloud.cn
 - https://bugly.qq.com/v2/
@@ -30,13 +28,14 @@ We are recruitsing agents worldwide, please contact us at lion@cragon.cn
 - https://github.com/Tencent/xLua
 - https://www.getui.com/cn/index.html
 
-### 果派德州QQ技术交流群
-558157909
+### 德州扑克QQ技术交流
+289143142
+德州扑克标准版部署上线运营，系统开发定制，联系上面QQ。
 
 ### License
 [MIT](/LICENSE)
 
-### 果派德州游戏截图
+### 德州游戏截图
 ![e](https://github.com/CragonGame/CasinosClient/blob/master/Doc/Images/e.png)
 ![b](https://github.com/CragonGame/CasinosClient/blob/master/Doc/Images/b.png)
 ![a](https://github.com/CragonGame/CasinosClient/blob/master/Doc/Images/a.png)
