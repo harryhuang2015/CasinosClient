@@ -29,7 +29,7 @@
 - https://www.getui.com/cn/index.html
 
 ### 德州扑克QQ技术交流
-289143142
+QQ：289143142
 德州扑克标准版部署上线运营，系统开发定制，联系上面QQ。
 
 ### License
